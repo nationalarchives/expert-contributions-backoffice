@@ -1,0 +1,16 @@
+.edit-button-holder {
+    float: right;
+    margin-bottom: 1em;
+}
+
+.edit-button-holder input {
+    display: none;
+}
+
+textarea {
+    width: 95%;
+    display: block;
+    color: #000;
+    background-color: rgba(252, 228, 92, 0.42);
+}
+
